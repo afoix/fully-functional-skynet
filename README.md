@@ -2,7 +2,7 @@
 Experiments in machine learning with Haskell.
 
 ## Contents
-Includes some work in Haskell about basic neurons and neural networks.
+Includes some work in Haskell about basic neurons and neural networks
 
 
 ## Tooling
